@@ -14,7 +14,6 @@ class WidgetsHideNSeek(QMainWindow):
         self.flag = False
 
     def drawKrug(self):
-        print('12')
         self.flag = True
         self.update()
 
